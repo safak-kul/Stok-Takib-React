@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StokReact.Core", "StokReact.Core\StokReact.Core.csproj", "{5231BA7A-01DA-4942-94E2-F4303EDDB4F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StokReact.Dal", "StokReact.Dal\StokReact.Dal.csproj", "{B7D10565-D093-4B2B-8B3C-231B97384AF2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StokReact.Entities", "StokReact.Entities\StokReact.Entities.csproj", "{A6838580-BB9A-4AAC-8C1C-387BF3819D40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StokReact.Interfaces", "StokReact.Interfaces\StokReact.Interfaces.csproj", "{AB02414C-084B-4CB0-AF84-5E9047884F41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StokReact.WebApi", "StokReact.WebApi\StokReact.WebApi.csproj", "{031FED16-7E17-40DB-BD87-00A476080E31}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "stokreact.clientreact", "StokReact.ClientReact\stokreact.clientreact.esproj", "{80CA02EF-5E5D-4B26-BABA-C5639B342785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5231BA7A-01DA-4942-94E2-F4303EDDB4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5231BA7A-01DA-4942-94E2-F4303EDDB4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5231BA7A-01DA-4942-94E2-F4303EDDB4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5231BA7A-01DA-4942-94E2-F4303EDDB4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D10565-D093-4B2B-8B3C-231B97384AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D10565-D093-4B2B-8B3C-231B97384AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D10565-D093-4B2B-8B3C-231B97384AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D10565-D093-4B2B-8B3C-231B97384AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6838580-BB9A-4AAC-8C1C-387BF3819D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6838580-BB9A-4AAC-8C1C-387BF3819D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6838580-BB9A-4AAC-8C1C-387BF3819D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6838580-BB9A-4AAC-8C1C-387BF3819D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB02414C-084B-4CB0-AF84-5E9047884F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB02414C-084B-4CB0-AF84-5E9047884F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB02414C-084B-4CB0-AF84-5E9047884F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB02414C-084B-4CB0-AF84-5E9047884F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031FED16-7E17-40DB-BD87-00A476080E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031FED16-7E17-40DB-BD87-00A476080E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031FED16-7E17-40DB-BD87-00A476080E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031FED16-7E17-40DB-BD87-00A476080E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80CA02EF-5E5D-4B26-BABA-C5639B342785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CA02EF-5E5D-4B26-BABA-C5639B342785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CA02EF-5E5D-4B26-BABA-C5639B342785}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{80CA02EF-5E5D-4B26-BABA-C5639B342785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CA02EF-5E5D-4B26-BABA-C5639B342785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80CA02EF-5E5D-4B26-BABA-C5639B342785}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EDDD423-ECAD-47C0-9D35-BB635061A765}
+	EndGlobalSection
+EndGlobal
